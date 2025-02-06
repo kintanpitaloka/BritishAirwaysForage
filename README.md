@@ -1,4 +1,4 @@
-# BritishAirwaysForage
+# British Airways - Forage
 # Web Scraping British Airways Reviews 
 
 This project demonstrates web scraping of customer reviews for British Airways from the Airline Quality website. This task aims to extract relevant information such as review ratings, airline details, and user comments for analysis.
