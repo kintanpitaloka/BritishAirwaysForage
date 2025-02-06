@@ -4,6 +4,7 @@
 This project demonstrates web scraping of customer reviews for British Airways from the Airline Quality website. This task aims to extract relevant information such as review ratings, airline details, and user comments for analysis.
 
 ## Task Overview
+### Task 1 :
 In this project, I used Python and BeautifulSoup to scrape data from the British Airways reviews page. The workflow was structured in Jupyter Notebook for clarity and organization.
 
 
